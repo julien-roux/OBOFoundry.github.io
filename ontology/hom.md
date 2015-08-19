@@ -15,6 +15,9 @@ build:
   system: git
   method: vcs
   path: src/ontology
+license:
+  url: https://creativecommons.org/licenses/by/3.0/
+  label: CC-BY
 ---
 
 This ontology represents concepts related to homology, as well as other concepts used to describe similarity and non-homology.
